@@ -146,7 +146,8 @@
 		position: absolute;
 		padding: 20px;
 		color: purple;
-		padding-left: 15%;
+		padding-left: 20%;
+		padding-right: 20%;
 	}
 
 	div#topnav {
