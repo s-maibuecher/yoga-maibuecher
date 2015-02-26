@@ -269,6 +269,7 @@
 	.navigation li:hover,.active{
 		font-size:25px;
 		width:120px !important;
+		cursor: pointer;
 	}
 
 	.navigation li {
